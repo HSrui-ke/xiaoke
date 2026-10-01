@@ -1,1 +1,1 @@
-let wzdtban
+let wzdtban = 1234
